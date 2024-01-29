@@ -409,8 +409,7 @@ iPhone:
 
 Figure 1.7: A few more styles added and our basic page is palatable
 
-And like this when the viewport is 800 px or
-wider:
+And like this when the viewport is 800 px or wider:
 
 ![](./images/B18550_01_08.png)
 
@@ -418,23 +417,9 @@ Figure 1.8: The same HTML and CSS provides a different layout for larger
 viewports
 
 
-The code samples provided throughout this course do not include "vendor
-prefix" styles. Vendor prefixes have been employed historically to
-prefix experimental CSS properties in different browsers. For example:
-`-webkit-backface-visibility`. Including vendor prefixes in
-CSS is often essential to achieve support for certain properties in
-older browsers. There are now tools to automate this prefixing and, as
-you might imagine, the tools perform the task faster and more accurately
-than we can.
-
-Therefore, I'm refraining from including any vendor-prefixed code in the
-samples, in the hope you will adopt a similar painless approach.
-
-
 This has been a very basic example but it has
 encapsulated the essential methodology of building out responsive web
 design.
-
 
 
 Summary
@@ -443,7 +428,6 @@ Summary
 
 Well done, you now know and understand the essential elements needed to
 create a fully responsive web page.
-
 
 In the next lab, *Lab 2*, *Writing HTML Markup*, we are going to
 take a deep dive into HTML5 markup. HTML is the very skeleton of any web

@@ -1937,12 +1937,6 @@ properties used, for example, and we will cover those fully in *Lab
 12*, *Custom Properties and CSS Functions*.
 
 
-There is plenty more in the way of settings and features specified in
-CSS Fonts Module Level 4. We have just scratched the surface! To dig in
-further, take a look at the specification:
-[[https://www.w3.org/TR/css-fonts-4/]](https://www.w3.org/TR/css-fonts-4/).
-
-
 Exercise
 ========
 
